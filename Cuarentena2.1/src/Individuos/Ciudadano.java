@@ -16,12 +16,7 @@ public final class Ciudadano extends Persona{
 	}
 
 	public String getnCiudadano() {
-		int x;
-		return nCiudadano;
-	}
-
-	public String getNombre(){
-		return nombre;
+		return "nCiudadano";
 	}
 
 	@Override
